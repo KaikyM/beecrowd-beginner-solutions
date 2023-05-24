@@ -6,7 +6,7 @@ public class Main {
         Double A = input.nextDouble();
         Double B = input.nextDouble();
         Double Av = ((3.5 * A) + (7.5 * B)) / 11;
-        System.out.printf("Average = %.5f\n", Av);
+        System.out.printf("AVERAGE = %.5f\n", Av);
         input.close();
     }
 }
