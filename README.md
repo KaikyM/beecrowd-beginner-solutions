@@ -10,6 +10,7 @@
 |1004|Simple Product|[See Here](BEE-1004-Java14.java)|Java|
 |1005|Average 1|[See Here](BEE-1005-Java14.java)|Java|
 |1006|Average 2|[See Here](BEE-1006-Java14.java)|Java|
+|1007|DIFFERENCE|[See Here](BEE-1007-Java14.java)|Java|
 
 ## My Profile in Beecrowd
 https://www.beecrowd.com.br/judge/en/profile/817401
