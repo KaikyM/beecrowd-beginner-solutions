@@ -8,7 +8,7 @@ public class Main {
         Double S = input.nextDouble();
         Double B = input.nextDouble();
         Double T = S + (B * 0.15);
-        System.out.printf("TOTAL = R$ %.2f\n", T);
+        System.out.printf("TOTAL = U$ %.2f\n", T);
         input.close();
     }
 }
