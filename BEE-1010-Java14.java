@@ -14,7 +14,7 @@ public class Main {
 //        
         Double PayPro = ((UnitPro1 * ValPro1) + (UnitPro2 * ValPro2));
 //
-        System.out.printf("Value to Pay: U$ %.2f\n", PayPro);         
+        System.out.printf("VALOR A PAGAR: U$ %.2f\n", PayPro);         
         input.close();
     }
 }
