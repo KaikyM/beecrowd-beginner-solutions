@@ -14,6 +14,7 @@
 |1008|Salary|[See Here](BEE-1008-Java14.java)|Java|
 |1009|Salary with Bonus|[See Here](BEE-1009-Java14.java)|Java|
 |1010|Simple Calculate|[See Here](BEE-1010-Java14.java)|Java|
+|1011|Sphere|[See Here](BEE-1011-Java14.java)|Java|
 
 ## My Profile in Beecrowd
 https://www.beecrowd.com.br/judge/en/profile/817401
