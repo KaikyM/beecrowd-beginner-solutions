@@ -7,7 +7,7 @@ public class Main {
         int A = sca.nextInt();
         int B = sca.nextInt();
         int Sum = A + B;
-        System.out.println("SUM = " + Sum);
+        System.out.println("SOMA = " + Sum);
         sca.close();
     }
 }
