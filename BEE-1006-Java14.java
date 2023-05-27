@@ -11,7 +11,7 @@ public class Main {
         int WB = 3;
         int WC = 5;
         Double Av = ((WA * A) + (WB * B) + (WC * C))/(WA + WB + WC) ;
-        System.out.printf("AVERAGE = %.1f\n", Av);
+        System.out.printf("MEDIA = %.1f\n", Av);
         Sc.close();
     }
 }
