@@ -9,6 +9,6 @@ public class Main {
         int C = S.nextInt();
         int D = S.nextInt();
         int Dif = ((A * B) - (C * D));
-        System.out.println("DIFFERENCE = " + Dif);
+        System.out.println("DIFERENCA = " + Dif);
     }
 }
