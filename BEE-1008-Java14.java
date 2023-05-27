@@ -10,7 +10,7 @@ public class Main {
         Double Sal = (H * D);
         //
 	System.out.println("NUMBER = " + N);
-        System.out.println(String.format("SALARY = U$ %.2f" , Sal));
+        System.out.printf("SALARY = U$ %.2f\n" , Sal));
         //
 	S.close();
     }
