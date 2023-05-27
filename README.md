@@ -16,6 +16,9 @@
 |1010|Simple Calculate|[See Here](BEE-1010-Java14.java)|Java|
 |1011|Sphere|[See Here](BEE-1011-Java14.java)|Java|
 |1012|Area|[See Here](BEE-1012-Java14.java)|Java|
+|1013|The Greatest|[See Here](BEE-1013-Java14.java)|Java|
+|1014|Consumption|[See Here](BEE-1014-Java14.java)|Java|
+|1015|Distance Between Two Points|[See Here](BEE-1015-Java14.java)|Java|
 
 ## My Profile in Beecrowd
 https://www.beecrowd.com.br/judge/en/profile/817401
