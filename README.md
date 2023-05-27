@@ -1,4 +1,4 @@
-# Beecrowd-Beginner-Solutions
+# Beecrowd-Solutions
 
 ## For Solve Beecrowd Hell Problems!
 |BEE ID|Name|The Code|Language|
