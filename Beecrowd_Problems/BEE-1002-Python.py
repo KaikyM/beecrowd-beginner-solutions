@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import math
 Npi = 3.14159
 R = float(input())
