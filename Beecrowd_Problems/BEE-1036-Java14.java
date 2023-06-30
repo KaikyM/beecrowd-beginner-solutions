@@ -14,11 +14,11 @@ public class Main {
         Double X2 = (-B - Delta)/(Div);
         //
         if(Delta >= 0 & Div != 0){
-	          System.out.printf("R1 = %.5f\n",X1);
+	    System.out.printf("R1 = %.5f\n",X1);
             System.out.printf("R2 = %.5f\n",X2);
         } else {
-	          System.out.println("Impossivel calcular");
-	          return;
+	    System.out.println("Impossivel calcular");
+	    return;
         }
         //
         Sca.close();
