@@ -25,6 +25,7 @@
 |1013|The Greatest|[See Here](Beecrowd_Problems/BEE-1013-Java14.java)|Java|
 |1014|Consumption|[See Here](Beecrowd_Problems/BEE-1014-Java14.java)|Java|
 |1015|Distance Between Two Points|[See Here](Beecrowd_Problems/BEE-1015-Java14.java)|Java|
+|1016|Distance|[See Here](Beecrowd_Problems/BEE-1016-Java14.java)|Java|
 |1036|Bhaskara's Formula|[See Here](Beecrowd_Problems/BEE-1036-Java14.java)|Java|
 
 ## My Profile in Beecrowd
