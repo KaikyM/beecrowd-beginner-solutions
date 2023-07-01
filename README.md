@@ -6,9 +6,9 @@
 |1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-Java14.java)|Java|
 |1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-Python.py)|Python|
 |1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-JS.js)|JavaScript|
-|1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-C++.ino)|C|
+|1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-C99.c)|C|
 |1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-C#.cs)|C#|
-|1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-C99.c)|C++|
+|1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-C++.ino)|C++|
 |1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-PHP.php)|PHP|
 |1001|Extremely Basic|[See Here](Beecrowd_Problems/BEE-1001-Java14.java)|Java|
 |1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-Java14.java)|Java|
