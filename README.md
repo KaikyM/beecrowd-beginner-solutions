@@ -13,6 +13,7 @@
 |1001|Extremely Basic|[See Here](Beecrowd_Problems/BEE-1001-Java14.java)|Java|
 |1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-Java14.java)|Java|
 |1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-Python.py)|Python|
+|1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-C99.c)|C|
 |1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-JS.js)|JavaScript|
 |1003|Simple Sum|[See Here](Beecrowd_Problems/BEE-1003-Java14.java)|Java|
 |1004|Simple Product|[See Here](Beecrowd_Problems/BEE-1004-Java14.java)|Java|
