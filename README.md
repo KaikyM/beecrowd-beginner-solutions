@@ -31,7 +31,7 @@
 |1016|Distance|[See Here](Beecrowd_Problems/BEE-1016-Java14.java)|Java|
 |1016|Fuel Spent|[See Here](Beecrowd_Problems/BEE-1017-Java14.java)|Java|
 |1036|Bhaskara's Formula|[See Here](Beecrowd_Problems/BEE-1036-Java14.java)|Java|
-|1000|Bhaskara's Formula|[See Here](Beecrowd_Problems/BEE-1036-Python.py)|Python|
+|1036|Bhaskara's Formula|[See Here](Beecrowd_Problems/BEE-1036-Python.py)|Python|
 
 ## My Profile in Beecrowd
 https://www.beecrowd.com.br/judge/en/profile/817401
