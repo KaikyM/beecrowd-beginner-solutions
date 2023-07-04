@@ -1,6 +1,48 @@
 # Beecrowd-Solutions
 
-## For Solve Beecrowd Hell Problems!
+## By Language:
+<!--        <tr>
+                <td align="center"> </td>
+                <td align="center"> </td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/">See Here</a></td>
+            </tr>
+-- >
+<!-- JAVA -->
+<details>
+    <summary><strong>JAVA</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>BEE ID</th>
+                <th>Name</th>
+                <th>Code</th>
+            </tr>
+            <tr>
+                <td align="center">1000</td>
+                <td align="center">Hello World!</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1001</td>
+                <td align="center">Extremely Basic</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1001-Java14.java">See Here</a></td>
+            <tr>
+                <td align="center">1002</td>
+                <td align="center">Area of a Circle</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1002-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1003</td>
+                <td align="center">Simple Sum</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1003-Java14.java">See Here</a></td>
+            </tr>
+        </table>
+    </div>
+</details>
 <!-- PHP -->
 <details>
     <summary><strong>PHP</strong></summary>
@@ -18,15 +60,16 @@
             <tr>
                 <td align="center">1000</td>
                 <td align="center">Hello World!</td>
-                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-PHP.php" 
->See Here</a></td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-PHP.php">See Here</a></td>
             </tr>
             <tr>
                 <td align="center">1002</td>
                 <td align="center">Area of a Circle</td>
-                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1002-PHP.php" 
->See Here</a></td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1002-PHP.php">See Here</a></td>
             </tr>
+        </table>
+    </div>
+</details>
 
 |BEE ID|Name|The Code|Language|
 |---|---|---|---|
