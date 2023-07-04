@@ -15,6 +15,7 @@
 |1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-Python.py)|Python|
 |1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-C99.c)|C|
 |1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-JS.js)|JavaScript|
+|1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-PHP.php)|PHP|
 |1003|Simple Sum|[See Here](Beecrowd_Problems/BEE-1003-Java14.java)|Java|
 |1004|Simple Product|[See Here](Beecrowd_Problems/BEE-1004-Java14.java)|Java|
 |1005|Average 1|[See Here](Beecrowd_Problems/BEE-1005-Java14.java)|Java|
