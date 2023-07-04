@@ -272,7 +272,7 @@
 </details>
 <!-- C++ -->
 <details>
-    <summary><strong>PHP</strong></summary>
+    <summary><strong>C++</strong></summary>
     <br />
     <div align="left">
         <table border=1>
