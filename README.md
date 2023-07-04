@@ -1,6 +1,33 @@
 # Beecrowd-Solutions
 
 ## For Solve Beecrowd Hell Problems!
+<!-- PHP -->
+<details>
+    <summary><strong>PHP</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>BEE ID</th>
+                <th>Name</th>
+                <th>Code</th>
+            </tr>
+            <tr>
+                <td align="center">1000</td>
+                <td align="center">Hello World!</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-PHP.php" 
+>See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1002</td>
+                <td align="center">Area of a Circle</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1002-PHP.php" 
+>See Here</a></td>
+            </tr>
+
 |BEE ID|Name|The Code|Language|
 |---|---|---|---|
 |1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-Java14.java)|Java|
