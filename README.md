@@ -1,4 +1,4 @@
-# Beecrowd-Solutions
+# Beecrowd Solutions
 
 ## Solution by Language:
 <!--
