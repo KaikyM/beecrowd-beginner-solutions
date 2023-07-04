@@ -1,11 +1,28 @@
 # Beecrowd-Solutions
 
-## By Language:
-<!--          <tr>
+## Solution by Language:
+<!--
+<details>
+    <summary><strong>PHP</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>BEE ID</th>
+                <th>Name</th>
+                <th>Code</th>
+            </tr>
+            <tr>
                 <td align="center"></td>
                 <td align="center"></td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/">See Here</a></td>
             </tr>
+        </table>
+    </div>
+</details>
 -- >
 <!-- JAVA -->
 <details>
@@ -118,6 +135,65 @@
         </table>
     </div>
 </details>
+<!-- Python -->
+<details>
+    <summary><strong>Python</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>BEE ID</th>
+                <th>Name</th>
+                <th>Code</th>
+            </tr>
+            <tr>
+                <td align="center">1000</td>
+                <td align="center">Hello World!</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-Python.py">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1002</td>
+                <td align="center">Area of a Circle</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/EE-1002-Python.py">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1036</td>
+                <td align="center">Bhaskara's Formula</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1036-Python.py">See Here</a></td>
+            </tr>
+        </table>
+    </div>
+</details>
+<!-- JavaScript -->
+<details>
+    <summary><strong>JavaScript</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>BEE ID</th>
+                <th>Name</th>
+                <th>Code</th>
+            </tr>
+            <tr>
+                <td align="center">1000</td>
+                <td align="center">Hello World!</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-JS.js">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1002</td>
+                <td align="center">Area of a Circle</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1002-JS.js">See Here</a></td>
+            </tr>
+        </table>
+    </div>
+</details>
 <!-- PHP -->
 <details>
     <summary><strong>PHP</strong></summary>
@@ -145,18 +221,77 @@
         </table>
     </div>
 </details>
-
-|BEE ID|Name|The Code|Language|
-|---|---|---|---|
-|1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-Python.py)|Python|
-|1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-JS.js)|JavaScript|
-|1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-C99.c)|C|
-|1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-CSharp.cs)|C#|
-|1000|Hello World!|[See Here](Beecrowd_Problems/BEE-1000-C++.ino)|C++|
-|1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-Python.py)|Python|
-|1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-C99.c)|C|
-|1002|Area of a Circle|[See Here](Beecrowd_Problems/BEE-1002-JS.js)|JavaScript|
-|1036|Bhaskara's Formula|[See Here](Beecrowd_Problems/BEE-1036-Python.py)|Python|
+<!-- C -->
+<details>
+    <summary><strong>C</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>BEE ID</th>
+                <th>Name</th>
+                <th>Code</th>
+            </tr>
+            <tr>
+                <td align="center">1000</td>
+                <td align="center">Hello World!</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-C99.c">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1002</td>
+                <td align="center">Area of a Circle</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1002-C99.c">See Here</a></td>
+            </tr>
+        </table>
+    </div>
+</details>
+<!-- C# -->
+<details>
+    <summary><strong>C#</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>BEE ID</th>
+                <th>Name</th>
+                <th>Code</th>
+            </tr>
+            <tr>
+                <td align="center">1000</td>
+                <td align="center">Hello World!</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-CSharp.cs">See Here</a></td>
+            </tr>
+        </table>
+    </div>
+</details>
+<!-- C++ -->
+<details>
+    <summary><strong>PHP</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>BEE ID</th>
+                <th>Name</th>
+                <th>Code</th>
+            </tr>
+            <tr>
+                <td align="center">1000</td>
+                <td align="center">Hello World!</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-C++.ino">See Here</a></td>
+            </tr>
+        </table>
+    </div>
+</details>
 
 ## My Profile in Beecrowd
 https://www.beecrowd.com.br/judge/en/profile/817401
