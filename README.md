@@ -157,7 +157,7 @@
             <tr>
                 <td align="center">1002</td>
                 <td align="center">Area of a Circle</td>
-                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/EE-1002-Python.py">See Here</a></td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1002-Python.py">See Here</a></td>
             </tr>
             <tr>
                 <td align="center">1036</td>
