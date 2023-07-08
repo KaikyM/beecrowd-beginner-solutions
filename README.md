@@ -127,6 +127,11 @@
                 <td align="center">Fuel Spent</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1017-Java14.java">See Here</a></td>
             </tr>
+             <tr>
+                <td align="center">1018</td>
+                <td align="center">Banknotes</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1018-Java14.java">See Here</a></td>
+            </tr>
             <tr>
                 <td align="center">1036</td>
                 <td align="center">Bhaskara's Formula</td>
