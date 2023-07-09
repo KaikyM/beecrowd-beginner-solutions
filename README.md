@@ -3,7 +3,7 @@
 ## My Solutions by Language:
 <!--
 <details>
-    <summary><strong>PHP</strong></summary>
+    <summary><strong>Language</strong></summary>
     <br />
     <div align="left">
         <table border=1>
@@ -141,6 +141,11 @@
                 <td align="center">1020</td>
                 <td align="center">Age in Days</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1020-Java14.java">See Here</a></td>
+            </tr>
+             <tr>
+                <td align="center">1021</td>
+                <td align="center">Banknotes and Coins</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1021-Java14.java">See Here</a></td>
             </tr>
             <tr>
                 <td align="center">1036</td>
