@@ -29,9 +29,10 @@ public class Main {
                 TP = 1.50 * Y;
                 System.out.printf("Total: R$ %.2f\n", TP);
                 break;
-            default:
-                System.out.println("You chose an order off the Menu!");
-                break;
+            // The Default case:
+//            default:
+//                System.out.println("You chose an order off the Menu!");
+//                break;
         }
         //
         Scan.close();
