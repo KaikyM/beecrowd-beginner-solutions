@@ -1,6 +1,6 @@
 # Beecrowd Solutions
 
-## Solution by Language:
+## My Solutions by Language:
 <!--
 <details>
     <summary><strong>PHP</strong></summary>
