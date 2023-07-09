@@ -147,6 +147,11 @@
                 <td align="center">Banknotes and Coins</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1021-Java14.java">See Here</a></td>
             </tr>
+             <tr>
+                <td align="center">1035</td>
+                <td align="center">Selection Test 1</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1035-Java14.java">See Here</a></td>
+            </tr>
             <tr>
                 <td align="center">1036</td>
                 <td align="center">Bhaskara's Formula</td>
