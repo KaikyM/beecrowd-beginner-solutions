@@ -138,6 +138,11 @@
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1019-Java14.java">See Here</a></td>
             </tr>
             <tr>
+                <td align="center">1020</td>
+                <td align="center">Age in Days</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1020-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
                 <td align="center">1036</td>
                 <td align="center">Bhaskara's Formula</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1036-Java14.java">See Here</a></td>
