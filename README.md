@@ -8,7 +8,7 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4"></th>
+                <th colspan=""></th>
             </tr>
             <tr>
                 <th>BEE ID</th>
@@ -31,7 +31,7 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
                 <th>BEE ID</th>
@@ -182,7 +182,7 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
                 <th>BEE ID</th>
@@ -214,7 +214,7 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
                 <th>BEE ID</th>
@@ -241,7 +241,7 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
                 <th>BEE ID</th>
@@ -268,7 +268,7 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
                 <th>BEE ID</th>
@@ -295,7 +295,7 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
                 <th>BEE ID</th>
@@ -317,7 +317,7 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="3"></th>
             </tr>
             <tr>
                 <th>BEE ID</th>
