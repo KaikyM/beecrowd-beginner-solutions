@@ -9,7 +9,7 @@ public class Main {
         A = input.nextInt();
         B = input.nextInt();
         C = input.nextInt();
-        //
+        // Array Exemple
         int[] Sort = new int[3];
         Sort[0] = A;
         Sort[1] = B;
