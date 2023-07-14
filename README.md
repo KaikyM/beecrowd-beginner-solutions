@@ -308,7 +308,7 @@
             <tr>
                 <td align="center">1036</td>
                 <td align="center">Bhaskara's Formula</td>
-                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1015-C99.c">See Here</a></td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1036-C99.c">See Here</a></td>
             </tr>
         </table>
     </div>
