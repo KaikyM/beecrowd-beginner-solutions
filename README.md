@@ -315,6 +315,11 @@
                 <td align="center">Bhaskara's Formula</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1036-C99.c">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1043</td>
+                <td align="center">Triangle</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1043-C99.c">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
