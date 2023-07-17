@@ -278,6 +278,11 @@
                 <td align="center">Area of a Circle</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1002-PHP.php">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1036</td>
+                <td align="center">Bhaskara's Formula</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1036-PHP.php">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
