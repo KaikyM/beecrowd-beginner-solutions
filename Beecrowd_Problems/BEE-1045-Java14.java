@@ -9,11 +9,11 @@ public class Main {
         B = input.nextDouble();
         C = input.nextDouble();
 //
-        if (B > A && B > C) {
+        if(B > A && B > C){
 		abc = A;
 		A = B;
 		B = abc;
-	} else if (C > A) {
+	} else if(C > A){
 		abc = A;
 		A = C;
 		C = abc;
