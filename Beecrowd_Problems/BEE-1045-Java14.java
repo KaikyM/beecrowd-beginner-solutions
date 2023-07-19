@@ -10,13 +10,13 @@ public class Main {
         C = input.nextDouble();
 //
         if(B > A && B > C){
-		abc = A;
-		A = B;
-		B = abc;
+	    abc = A;
+	    A = B;
+	    B = abc;
 	} else if(C > A){
-		abc = A;
-		A = C;
-		C = abc;
+	    abc = A;
+	    A = C;
+	    C = abc;
 	}
 //
         if(A >= B + C){ 
