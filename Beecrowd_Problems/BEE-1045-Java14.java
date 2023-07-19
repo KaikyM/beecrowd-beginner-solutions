@@ -23,16 +23,16 @@ public class Main {
             System.out.println("NAO FORMA TRIANGULO");
         } else {
             //
-            if(A*A == B*B + C*C){ System.out.println("TRIANGULO RETANGULO");}
+            if(A*A == B*B + C*C){ System.out.println("TRIANGULO RETANGULO"); }
             //
-            if(A*A > B*B + C*C){ System.out.println("TRIANGULO OBTUSANGULO");}
+            if(A*A > B*B + C*C){ System.out.println("TRIANGULO OBTUSANGULO"); }
             //
-            if(A*A < B*B + C*C){ System.out.println("TRIANGULO ACUTANGULO");}
+            if(A*A < B*B + C*C){ System.out.println("TRIANGULO ACUTANGULO"); }
             //
-            if(A == B && B == C){ System.out.println("TRIANGULO EQUILATERO");}
+            if(A == B && B == C){ System.out.println("TRIANGULO EQUILATERO"); }
             //
-            if((B == A && A != C) || (A == C && C != B) || (C == B && B != A)){
-                System.out.println("TRIANGULO ISOSCELES");}
+            if((B == A && A != C)|| (A == C && C != B) || (C == B && B != A)){
+		System.out.println("TRIANGULO ISOSCELES"); }
         }
 //
         input.close();
