@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 int main(){
     float A, B, C, triangle, trapezium;
     
