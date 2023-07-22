@@ -200,7 +200,7 @@
             <tr>
                 <td align="center">1046</td>
                 <td align="center">Game Time</td>
-                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1045-Java14.java">See Here</a></td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1046-Java14.java">See Here</a></td>
             </tr>
         </table>
     </div>
