@@ -202,6 +202,11 @@
                 <td align="center">Game Time</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1046-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1047</td>
+                <td align="center">Game Time with Minutes</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1047-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
