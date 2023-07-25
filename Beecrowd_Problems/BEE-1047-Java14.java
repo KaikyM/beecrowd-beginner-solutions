@@ -14,9 +14,9 @@ public class Main {
         Dif = ((endH * 60) + endM) - ((startH * 60) + startM);
         //
         if(Dif <= 0){
-            Dif += 24*60;
+            Dif += 24 * 60;
         }
-        System.out.printf("O JOGO DUROU %d HORA(S) E %d MINUTO(S)\n", Dif / 60, Dif % 60);
+        System.out.printf("O JOGO DUROU %d HORA(S) E %d MINUTO(S)\n", (Dif / 60), (Dif % 60));
         //
         input.close();
     }
