@@ -232,6 +232,11 @@
                 <td align="center">Month</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1052-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1059</td>
+                <td align="center">Even Numbers</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1059-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
