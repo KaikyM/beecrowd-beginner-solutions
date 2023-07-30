@@ -242,6 +242,11 @@
                 <td align="center">Positive Numbers</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1060-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1064</td>
+                <td align="center">Positives and Average</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1064-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
