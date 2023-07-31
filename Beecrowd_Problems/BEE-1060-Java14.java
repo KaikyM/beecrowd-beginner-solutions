@@ -11,7 +11,7 @@ public class Main {
             if(numbers > 0){ positives++; }
         }
         //
-        System.out.println(positives + " valores positivos\n");
+        System.out.println(positives + " valores positivos");
         //
         input.close();
     }
