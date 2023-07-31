@@ -247,6 +247,11 @@
                 <td align="center">Positives and Average</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1064-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1065</td>
+                <td align="center">Even Between five Numbers</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1065-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
