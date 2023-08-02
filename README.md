@@ -257,6 +257,16 @@
                 <td align="center">Even, Odd, Positive and Negative</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1066-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1067</td>
+                <td align="center">Odd Numbers</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1067-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1070</td>
+                <td align="center">Six Odd Numbers</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1070-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
