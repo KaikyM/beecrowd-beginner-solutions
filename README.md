@@ -268,6 +268,11 @@
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1070-Java14.java">See Here</a></td>
             </tr>
             <tr>
+                <td align="center">1071</td>
+                <td align="center">Sum of Consecutive Odd Numbers I</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1071-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
                 <td align="center">1072</td>
                 <td align="center">Interval 2</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1072-Java14.java">See Here</a></td>
