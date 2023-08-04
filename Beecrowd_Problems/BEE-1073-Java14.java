@@ -10,8 +10,8 @@ public class Main {
         while(stop < X){
             if(X % 2 == 0){
                 System.out.printf("%d^2 = %d\n",Y , Y*Y);
-                Y = Y + 2;
-                stop = stop + 2;
+                Y += 2;
+                stop += 2;
             }else{ X--; }
         }
         //
