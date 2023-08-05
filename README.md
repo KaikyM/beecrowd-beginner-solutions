@@ -282,6 +282,16 @@
                 <td align="center">Even Square</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1073-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1074</td>
+                <td align="center">Even or Odd</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1074-Java14.java"">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1078</td>
+                <td align="center">Multiplication Table</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1078-Java14.java"">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
