@@ -292,6 +292,16 @@
                 <td align="center">Multiplication Table</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1078-Java14.java"">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1079</td>
+                <td align="center">Weighted Averages</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1079-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1080</td>
+                <td align="center">Highest and Position</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1080-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
