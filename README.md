@@ -288,6 +288,11 @@
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1074-Java14.java"">See Here</a></td>
             </tr>
             <tr>
+                <td align="center">1075</td>
+                <td align="center">Remaining 2</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1075-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
                 <td align="center">1078</td>
                 <td align="center">Multiplication Table</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1078-Java14.java"">See Here</a></td>
@@ -301,6 +306,11 @@
                 <td align="center">1080</td>
                 <td align="center">Highest and Position</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1080-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1094</td>
+                <td align="center">Experiments</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1094-Java14.java">See Here</a></td>
             </tr>
         </table>
     </div>
