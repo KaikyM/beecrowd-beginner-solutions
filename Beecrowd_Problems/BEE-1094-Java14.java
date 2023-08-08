@@ -26,7 +26,7 @@ public class Main {
             }
         }
         // Calculations
-	    Total = TC + TR + TS;
+	Total = TC + TR + TS;
         PerC = (double) TC / Total * 100;
         PerR = (double) TR / Total * 100;
         PerS = (double) TS / Total * 100;
