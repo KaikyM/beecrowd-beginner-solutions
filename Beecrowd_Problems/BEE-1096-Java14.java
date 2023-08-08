@@ -4,7 +4,7 @@ public class Main {
         int I = 1;
         while(I <= 9){
             int J = 7;
-            for(int i = 0; i < 3; i++){
+            for(int k = 0; k < 3; k++){
                 System.out.printf("I=%d J=%d\n",I ,J);
             	J--; 
             }
