@@ -322,6 +322,16 @@
                 <td align="center">Sequence IJ 2</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1096-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1097</td>
+                <td align="center">Sequence IJ 3</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1097-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1098</td>
+                <td align="center">Sequence IJ 4</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1098-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
