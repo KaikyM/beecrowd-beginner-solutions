@@ -332,6 +332,16 @@
                 <td align="center">Sequence IJ 4</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1098-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1101</td>
+                <td align="center">Sequence of Numbers and Sum</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1101-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1113</td>
+                <td align="center">Ascending and Descending</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1113-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
