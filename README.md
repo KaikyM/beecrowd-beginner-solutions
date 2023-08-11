@@ -342,6 +342,16 @@
                 <td align="center">Ascending and Descending</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1113-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1114</td>
+                <td align="center">Fixed Password</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1114-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1115</td>
+                <td align="center">Quadrant</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1115-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
