@@ -352,6 +352,16 @@
                 <td align="center">Quadrant</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1115-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1116</td>
+                <td align="center">Dividing X by Y</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1116-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1117</td>
+                <td align="center">Score Validation</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1117-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
