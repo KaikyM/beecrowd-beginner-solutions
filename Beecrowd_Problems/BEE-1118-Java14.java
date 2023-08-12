@@ -6,7 +6,7 @@ public class Main {
         //
         int flag = 1;
         //
-        while(flag != 2){
+        while(flag == 1){
             double Sum = 0.0;
             // Loop Score
             while(flag != 3){
