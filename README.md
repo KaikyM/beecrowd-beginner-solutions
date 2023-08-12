@@ -362,6 +362,16 @@
                 <td align="center">Score Validation</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1117-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1118</td>
+                <td align="center">Several Scores with Validation</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1118-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1132</td>
+                <td align="center">Multiples of 13</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1132-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
