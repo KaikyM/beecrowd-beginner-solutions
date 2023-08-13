@@ -243,6 +243,11 @@
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1060-Java14.java">See Here</a></td>
             </tr>
             <tr>
+                <td align="center">1061</td>
+                <td align="center">Event Time</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1061-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
                 <td align="center">1064</td>
                 <td align="center">Positives and Average</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1064-Java14.java">See Here</a></td>
@@ -331,6 +336,11 @@
                 <td align="center">1098</td>
                 <td align="center">Sequence IJ 4</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1098-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1099</td>
+                <td align="center">Sum of Consecutive Odd Numbers II</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1099-Java14.java">See Here</a></td>
             </tr>
             <tr>
                 <td align="center">1101</td>
