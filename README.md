@@ -382,6 +382,16 @@
                 <td align="center">Multiples of 13</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1132-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1134</td>
+                <td align="center">Type of Fuel</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1134-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1142</td>
+                <td align="center">PUM</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1142-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
