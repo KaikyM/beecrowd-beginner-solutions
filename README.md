@@ -383,6 +383,11 @@
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1132-Java14.java">See Here</a></td>
             </tr>
             <tr>
+                <td align="center">1133</td>
+                <td align="center">Rest of a Division</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1133-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
                 <td align="center">1134</td>
                 <td align="center">Type of Fuel</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1134-Java14.java">See Here</a></td>
@@ -391,6 +396,11 @@
                 <td align="center">1142</td>
                 <td align="center">PUM</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1142-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1143</td>
+                <td align="center">Squared and Cubic</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1143-Java14.java">See Here</a></td>
             </tr>
         </table>
     </div>
