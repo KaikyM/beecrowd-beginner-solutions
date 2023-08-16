@@ -402,6 +402,16 @@
                 <td align="center">Squared and Cubic</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1143-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1144</td>
+                <td align="center">Logical Sequence</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1144-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1145</td>
+                <td align="center">Logical Sequence 2</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1145-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
