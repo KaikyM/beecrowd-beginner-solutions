@@ -14,8 +14,7 @@ public class Main {
             if(K != Y){
                 int J = 0;
                 while(J < X){
-                    J++;
-                    K++;
+                    J++; K++;
                     if(J < X){
                         System.out.print(K + " ");
                     }else{
