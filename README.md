@@ -560,6 +560,16 @@
                 <td align="center">Triangle Types</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1045-C99.c">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1051</td>
+                <td align="center">Taxes</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1051-C99.c">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1052</td>
+                <td align="center">Month</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1052-C99.c">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
