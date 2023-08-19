@@ -5,7 +5,6 @@ public class Main {
         Scanner input = new Scanner(System.in);
         //
         int DDD = input.nextInt();
-        String Destination;
         //
         switch(DDD){
             case 11: 
