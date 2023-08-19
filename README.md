@@ -499,6 +499,11 @@
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1002-PHP.php">See Here</a></td>
             </tr>
             <tr>
+                <td align="center">1015</td>
+                <td align="center">Distance Between Two Points</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1015-PHP.php">See Here</a></td>
+            </tr>
+            <tr>
                 <td align="center">1036</td>
                 <td align="center">Bhaskara's Formula</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1036-PHP.php">See Here</a></td>
@@ -507,6 +512,11 @@
                 <td align="center">1045</td>
                 <td align="center">Triangle Types</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1045-PHP.php">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1050</td>
+                <td align="center">DDD</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1050-PHP.php">See Here</a></td>
             </tr>
         </table>
     </div>
