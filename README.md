@@ -601,9 +601,19 @@
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1052-C99.c">See Here</a></td>
             </tr>
             <tr>
+                <td align="center">1080</td>
+                <td align="center">Highest and Position</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1080-C99.c">See Here</a></td>
+            </tr>
+            <tr>
                 <td align="center">1114</td>
                 <td align="center">Fixed Password</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1114-C99.c">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1146</td>
+                <td align="center">Growing Sequences</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1146-C99.c">See Here</a></td>
             </tr>
         </table>
     </div>
