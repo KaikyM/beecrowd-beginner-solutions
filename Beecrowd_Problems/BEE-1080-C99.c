@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int High = 0, Pos = 1; 
+    int High = 0, Pos = 0; 
     //
     for(int i = 1; i <= 100; i++){
         int X;
