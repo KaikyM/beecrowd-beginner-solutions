@@ -449,6 +449,11 @@
                 <td align="center">Bhaskara's Formula</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1036-Python.py">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1043</td>
+                <td align="center">Triangle</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1043-Python.py">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
@@ -609,6 +614,11 @@
                 <td align="center">1114</td>
                 <td align="center">Fixed Password</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1114-C99.c">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1142</td>
+                <td align="center">PUM</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1142-C99.c">See Here</a></td>
             </tr>
             <tr>
                 <td align="center">1146</td>
