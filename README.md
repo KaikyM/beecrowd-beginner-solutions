@@ -616,9 +616,19 @@
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1114-C99.c">See Here</a></td>
             </tr>
             <tr>
+                <td align="center">1116</td>
+                <td align="center">Dividing X by Y</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1116-C99.c">See Here</a></td>
+            </tr>
+            <tr>
                 <td align="center">1142</td>
                 <td align="center">PUM</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1142-C99.c">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1143</td>
+                <td align="center">Squared and Cubic</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1143-C99.c">See Here</a></td>
             </tr>
             <tr>
                 <td align="center">1146</td>
