@@ -8,5 +8,4 @@ int main() {
     double Area = Pi * pow(Radius, 2);
     
     printf("A=%.4f\n", Area);
-    return 0;
 }
