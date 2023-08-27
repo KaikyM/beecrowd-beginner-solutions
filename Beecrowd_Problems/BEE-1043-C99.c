@@ -11,5 +11,4 @@ int main(){
         trapezium = ((A + B) * C) / 2;
         printf("Area = %.1lf\n", trapezium);
     }
-    return 0;
 }
