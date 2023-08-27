@@ -9,5 +9,4 @@ int main() {
     Distance = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
     
     printf("%.4lf\n", Distance);
-    return 0;
 }
