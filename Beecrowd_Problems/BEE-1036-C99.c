@@ -14,7 +14,6 @@ int main() {
         printf("R2 = %.5lf\n", X2);
     }else{
         printf("Impossivel calcular\n");
+        return 0;
     }
-    
-    return 0;
 }
