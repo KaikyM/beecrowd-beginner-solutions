@@ -11,6 +11,4 @@ int main(){
         }
     }
     printf("%d\n%d\n", High, Pos);
-    //
-    return 0;
 }
