@@ -17,5 +17,4 @@ int main(){
             Stop = true;
         }
     }
-    return 0;
 }
