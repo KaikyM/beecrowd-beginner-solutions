@@ -417,6 +417,16 @@
                 <td align="center">Growing Sequences</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1146-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1149</td>
+                <td align="center">Summing Consecutive Integers</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1149-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1150</td>
+                <td align="center">Exceeding Z</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1150-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
