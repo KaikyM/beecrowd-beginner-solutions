@@ -653,28 +653,6 @@
         </table>
     </div>
 </details>
-<!-- C# -->
-<details>
-    <summary><strong>C#</strong></summary>
-    <br />
-    <div align="left">
-        <table border=1>
-            <tr>
-                <th colspan="3"></th>
-            </tr>
-            <tr>
-                <th>BEE ID</th>
-                <th>Name</th>
-                <th>Code</th>
-            </tr>
-            <tr>
-                <td align="center">1000</td>
-                <td align="center">Hello World!</td>
-                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-CSharp.cs">See Here</a></td>
-            </tr>
-        </table>
-    </div>
-</details>
 <!-- C++ -->
 <details>
     <summary><strong>C++</strong></summary>
@@ -693,6 +671,28 @@
                 <td align="center">1000</td>
                 <td align="center">Hello World!</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-C++.ino">See Here</a></td>
+            </tr>
+        </table>
+    </div>
+</details>
+<!-- C# -->
+<details>
+    <summary><strong>C#</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>BEE ID</th>
+                <th>Name</th>
+                <th>Code</th>
+            </tr>
+            <tr>
+                <td align="center">1000</td>
+                <td align="center">Hello World!</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1000-CSharp.cs">See Here</a></td>
             </tr>
         </table>
     </div>
