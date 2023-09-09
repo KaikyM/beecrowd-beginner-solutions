@@ -452,6 +452,16 @@
                 <td align="center">S Sequence II</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1156-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1157</td>
+                <td align="center">Divisors I</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1157-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1158</td>
+                <td align="center">Sum of Consecutive Odd Numbers III</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1158-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
