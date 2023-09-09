@@ -15,13 +15,13 @@ public class Main {
             Y = Integer.parseInt(Values[1]);
             //
             for (j = X, k = 0; k < Y; j++) {
-				        if (j % 2 != 0) {
-					      sum += j;
-					      k += 1;
-				        }
-			      }
-			  //
-			  System.out.println(sum);
+		if (j % 2 != 0) {
+		sum += j;
+		k += 1;
+		}
+	    }
+	//
+	System.out.println(sum);
         }
         //
         input.close();
