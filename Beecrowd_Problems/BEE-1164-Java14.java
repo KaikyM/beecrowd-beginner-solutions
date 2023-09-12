@@ -5,7 +5,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
         //
         int X, Sum;
-	      int N = input.nextInt();
+	int N = input.nextInt();
         //
         for(int i = 0; i < N; i++){
             Sum = 0;
