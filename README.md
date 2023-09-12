@@ -468,6 +468,16 @@
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1159-Java14.java">See Here</a></td>
             </tr>
             <tr>
+                <td align="center">1164</td>
+                <td align="center">Perfect Number</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1164-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1165</td>
+                <td align="center">Prime Number</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1165-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
                 <td align="center">1172</td>
                 <td align="center">Array Replacement I</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1172-Java14.java">See Here</a></td>
