@@ -5,13 +5,13 @@ public class Main {
         Scanner input = new Scanner(System.in);
         //
         double X;
-        int [] A = new int[100];
+        double [] A = new double[100];
         //
         for(int i = 0; i < A.length; i++){
-            X = input.nextInt();
-            if(X <= 10){
-                A[i] = X;
-                System.out.printf("A[%d] = %d.1f\n",i ,X);
+            X = input.nextDouble();
+            A[i] = X;
+            if(X <= 10.0){
+                System.out.printf("A[%d] = %.1f\n",i ,A[i]);
             }
         }
         input.close();
