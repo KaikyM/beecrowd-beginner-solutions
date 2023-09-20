@@ -6,7 +6,7 @@ public class Main {
         //
         int T, N;
         long before = 1, current = 0, after;
-		    long Fibo[] = new long[61];
+	long Fibo[] = new long[61];
         //
         for(int i = 0; i < Fibo.length; i++){
             Fibo[i] = current;
@@ -15,11 +15,11 @@ public class Main {
             current = after + before;
         }
         //
-	      T = input.nextInt();
-	      for(int i = 0; i < T; i++){
-		        N = input.nextInt();
-		        System.out.println("Fib(" + N + ") = " + Fibo[N]);
-	      }
+	T = input.nextInt();
+	for(int i = 0; i < T; i++){
+	    N = input.nextInt();
+	    System.out.println("Fib(" + N + ") = " + Fibo[N]);
+	}
         input.close();
     }
 }
