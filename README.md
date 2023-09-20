@@ -498,6 +498,11 @@
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1175-Java14.java">See Here</a></td>
             </tr>
             <tr>
+                <td align="center">1176</td>
+                <td align="center">Fibonacci Array</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1176-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
                 <td align="center">1177</td>
                 <td align="center">Array Fill II</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1177-Java14.java">See Here</a></td>
@@ -506,6 +511,11 @@
                 <td align="center">1178</td>
                 <td align="center">Array Fill III</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1178-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1179</td>
+                <td align="center">Array Fill IV</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1179-Java14.java">See Here</a></td>
             </tr>
         </table>
     </div>
