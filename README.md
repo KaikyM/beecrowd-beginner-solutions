@@ -517,6 +517,11 @@
                 <td align="center">Array Fill IV</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1179-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1180</td>
+                <td align="center">Lowest Number and Position</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1180-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
