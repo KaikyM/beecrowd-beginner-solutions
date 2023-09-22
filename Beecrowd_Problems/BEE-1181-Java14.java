@@ -19,8 +19,8 @@ public class Main {
             }
         }
         // Green Line Sum
-        for(i = 0; i < M.length; i++){
-            Sum += M[L][i];
+        for(j = 0; j < M.length; j++){
+            Sum += M[L][j];
         }
         // Output
         switch(Char){
