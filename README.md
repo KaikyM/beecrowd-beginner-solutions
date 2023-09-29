@@ -532,6 +532,16 @@
                 <td align="center">Column in Array</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1182-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1183</td>
+                <td align="center">Above the Main Diagonal</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1183-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1184</td>
+                <td align="center">Below the Main Diagonal</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1184-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
