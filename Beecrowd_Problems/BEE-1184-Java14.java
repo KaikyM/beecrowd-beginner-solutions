@@ -17,7 +17,7 @@ public class Main {
                 M[i][j] = input.nextDouble();
             }
         }
-        // Above Green Area Sum
+        // Below Green Area Sum
         for(i = 0; i < M.length; i++){
             for(j = 0; j < M[i].length; j++){
                 if(j < i){ Sum += M[i][j]; }
