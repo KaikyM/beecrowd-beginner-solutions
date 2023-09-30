@@ -542,6 +542,16 @@
                 <td align="center">Below the Main Diagonal</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1184-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1185</td>
+                <td align="center">Above the Secundary Diagonal</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1185-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1186</td>
+                <td align="center">Below the Secundary Diagonal</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1186-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
