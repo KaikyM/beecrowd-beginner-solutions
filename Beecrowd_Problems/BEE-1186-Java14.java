@@ -19,9 +19,9 @@ public class Main {
         }
         // Below the Secundary Green Area Sum
         for(i = 0; i < M.length; i++){
-        	for(j = 0; j < M[i].length; j++){
-        		if(j > M.length - i - 1){ Sum += M[i][j]; }
-        	}
+            for(j = 0; j < M[i].length; j++){
+                if(j > M.length - i - 1){ Sum += M[i][j]; }
+            }
         }
         // Output
         switch(O){
