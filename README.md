@@ -562,6 +562,16 @@
                 <td align="center">Inferior Area</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1188-Java14.java">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1189</td>
+                <td align="center">Left Area</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1189-Java14.java">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1190</td>
+                <td align="center">Right Area</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1190-Java14.java">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
