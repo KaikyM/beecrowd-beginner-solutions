@@ -614,6 +614,16 @@
                 <td align="center">Triangle</td>
                 <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1043-Python.py">See Here</a></td>
             </tr>
+            <tr>
+                <td align="center">1172</td>
+                <td align="center">Array Replacement I</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1172-Python.py">See Here</a></td>
+            </tr>
+            <tr>
+                <td align="center">1173</td>
+                <td align="center">Array fill I</td>
+                <td align="center"><a href= "https://github.com/KaikyM/beecrowd-solutions/blob/main/Beecrowd_Problems/BEE-1173-Python.py">See Here</a></td>
+            </tr>
         </table>
     </div>
 </details>
